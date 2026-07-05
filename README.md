@@ -76,7 +76,7 @@ El dataset no presenta valores ausentes ni duplicados.
 | Métrica              | Página A | Página B | Diferencia | Prueba | p-valor    |
 |----------------------|----------|----------|------------|--------|------------|
 | Tasa de conversión   | 12.57%   | 15.96%   | +3.38 pp   | z-test | 3.76×10⁻²² |
-| Gasto promedio       | $61.09   | $68.75   | +$7.66     | t-test | 1.06×10⁻²⁰ |
+| Gasto promedio       | $ 61.09   | $ 68.75   | +$ 7.66     | t-test | 1.06×10⁻²⁰ |
 
 👉 Ambas diferencias son estadísticamente significativas. La Página B convierte más usuarios y genera mayor gasto promedio.
 
