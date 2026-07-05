@@ -22,19 +22,6 @@ Los resultados muestran que la **Página B** logra una mayor tasa de conversión
 
 ---
 
-## 📁 Estructura del repositorio
-├── README.md
-├── notebook/
-│   └── landing_experiment_ab_test.ipynb
-├── data/
-│   ├── landing_experiment.csv
-└── visualizations/
-├── Conversiones por Canal de Usuario.png
-├── Conversiones por Tipo de Usuario.png
-├── Tasa de Conversión por Canal de Usuario.png
-└── Tasa de Conversión por Tipo de Usuario.png
----
-
 # 🔬 Detalles del Proyecto
 
 ## 📌 Objetivo
@@ -101,7 +88,7 @@ El dataset no presenta valores ausentes ni duplicados.
 - Se sugiere no priorizar canal ni tipo de usuario como criterios de segmentación.  
 
 ## ⚠️ Limitaciones
-- Periodo breve (28 días, enero).  
+- Período breve (28 días, enero).  
 - Posible efecto “novedad” en la Página B.  
 - Impacto económico proyectado sin incluir costos de implementación.  
 
