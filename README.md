@@ -26,15 +26,13 @@ Los resultados muestran que la **Página B** logra una mayor tasa de conversión
 ├── README.md
 ├── notebook/
 │   └── landing_experiment_ab_test.ipynb
-└── data/
-└── landing_experiment.csv
-└── visualizaciones/
-│   └── Conversiones por Canal de Usuario.png
-│   └── Conversiones por Tipo de Usuario.png
-│   └──Tasa de Conversión por Canal de Usuario.png
-│   └──Tasa de Conversión por Tipo de Usuario.png
-
-
+├── data/
+│   ├── landing_experiment.csv
+└── visualizations/
+├── Conversiones por Canal de Usuario.png
+├── Conversiones por Tipo de Usuario.png
+├── Tasa de Conversión por Canal de Usuario.png
+└── Tasa de Conversión por Tipo de Usuario.png
 ---
 
 # 🔬 Detalles del Proyecto
