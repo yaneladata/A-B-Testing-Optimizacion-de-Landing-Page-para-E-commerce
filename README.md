@@ -62,7 +62,13 @@ El dataset no presenta valores ausentes ni duplicados.
 4. Relación entre canal de tráfico y conversión  
 5. Relación entre tipo de usuario y conversión  
 6. Visualización de resultados  
-7. Insight ejecutivo y estimación de impacto económico  
+7. Insight ejecutivo y estimación de impacto económico
+
+## 📊 Visualizaciones
+- **Gráfico de Conversión**: Canal de Usuario vs Cantidad de Usuarios
+- **Gráfico de Conversión**: Tipo de Usuario vs Cantidad de Usuarios
+- **Gráfico Tasa de Conversión**: Canal de Usuario vs Porcentaje
+- **Gráfico Tasa de Conversión**: Tipo de Usuario vs Porcentaje
 
 ## 📊 Hallazgos principales
 **Página A vs. Página B**
