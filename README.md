@@ -4,7 +4,7 @@
 Este proyecto analiza un experimento A/B en un e-commerce para comparar dos versiones de una landing page.  
 Los resultados muestran que la **Página B** logra una mayor tasa de conversión (+3.38 pp) y un mayor gasto promedio (+$7.66), con un impacto económico estimado de **+$66,000** en ingresos adicionales.  
 
-**Conclusión clave:** Por los resultados del análisis realizado, migrar gradualmente a la Página B maximiza la conversión y el ingreso, sin necesidad de segmentar por canal de tráfico ni tipo de usuario.
+**Conclusión clave:** Por los resultados obtenidos del análisis realizado, migrar gradualmente a la Página B maximiza la conversión y el ingreso, sin necesidad de segmentar por canal de tráfico ni tipo de usuario.
 
 ---
 
