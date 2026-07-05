@@ -103,5 +103,14 @@ El dataset no presenta valores ausentes ni duplicados.
 - `data/` → datasets original.
 - `notebooks/` → notebooks de análisis.
 - `visualizaciones/` → gráficos generados.
-- 
+
+  ├── `README.md`
+├──`notebook/`
+│   └── novaretail_analisis_correlacional.ipynb
+├── `data/`
+│   └── novaretail_comportamiento_clientes_2024.csv
+└──` visualizations/`
+├── heatmap_correlacion.png
+├── scatter_compras_vs_ingreso.png
+└── scatter_visitas_vs_ingreso.png 
 Este proyecto forma parte de mi portfolio de análisis de datos, integrando estadística aplicada y visión de negocio.
