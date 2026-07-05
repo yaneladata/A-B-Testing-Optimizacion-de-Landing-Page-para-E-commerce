@@ -97,4 +97,11 @@ El dataset no presenta valores ausentes ni duplicados.
 - Analizar variables adicionales como región y dispositivo.  
 
 ---
+
+## 📂 Estructura del repositorio
+- `readme.md`
+- `data/` → datasets original.
+- `notebooks/` → notebooks de análisis.
+- `visualizaciones/` → gráficos generados.
+- 
 Este proyecto forma parte de mi portfolio de análisis de datos, integrando estadística aplicada y visión de negocio.
