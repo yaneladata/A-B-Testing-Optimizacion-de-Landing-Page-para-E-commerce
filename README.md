@@ -16,9 +16,10 @@ Los resultados muestran que la **Página B** logra una mayor tasa de conversión
 ---
 
 ## 💡 Recomendaciones
-- Se sugiere implementar la Página B de forma gradual (25% → 100%).  
-- Monitorear conversión y gasto semana a semana.  
-- Se ssugiere enfocar esfuerzos en optimización de diseño, más que en segmentación por canal o tipo de usuario.  
+- Migrar gradualmente a la **Página B**, que muestra mejor desempeño (+3.38 pp en conversión y +$7.66 en gasto promedio, ambas diferencias p<0.001).Impacto económico estimado: **+$66,000** en ingresos adicionales sobre la base de usuarios analizada.  
+- Implementar un despliegue escalonado (25% → 100% del tráfico) para confirmar que el efecto se sostiene más allá de los 28 días del experimento.  
+- No priorizar segmentación por canal de tráfico ni tipo de usuario: las diferencias son mínimas y no accionables.  
+- Enfocar esfuerzos en optimizar la experiencia de la página y explorar otras variables como **región** o **dispositivo**.
 
 ---
 
@@ -89,9 +90,9 @@ El dataset no presenta valores ausentes ni duplicados.
 - Diferencia mínima (0.27 pp), no significativa (p=0.474).  
 
 ## 💡 Recomendaciones de negocio
-- Se sugiere migrar gradualmente el tráfico a la Página B.  
+- Se sugiere migrar gradualmente el tráfico a la Página B. La migración a Página B representa una oportunidad clara de crecimiento rentable para el e-commerce.  
 - Impacto económico estimado: **+$66,000** en ingresos adicionales.  
-- Se sugiere no priorizar canal ni tipo de usuario como criterios de segmentación.  
+- Se sugiere no priorizar canal de usuario ni tipo de usuario como criterios de segmentación: las diferencias son mínimas y no accionables.  
 
 ## ⚠️ Limitaciones
 - Período breve (28 días, enero).  
